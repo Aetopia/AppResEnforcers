@@ -1,5 +1,5 @@
 # App Resolution Enforcers
-Resolution Enforcers for both UWP and Win32 Apps
+Resolution Enforcers for both UWP and Win32 Apps.
 ## What do these executables do?
 These executables allows you to enforce a screen resolution for a particular application which doesn't have support to be used at lower resolutions.  
 Also the executables will dynamically change your screen resolution, if desired application window is inactive or closed then your screen resolution will be set to default else your screen resolution will be set to the resolution you desire to use with that application.
